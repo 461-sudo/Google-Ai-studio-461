@@ -1,0 +1,5 @@
+{
+  "name": "Copy of StatementSense OCR",
+  "description": "A professional bank statement OCR tool that extracts transactions from PDFs and images into structured CSV data using Gemini AI vision capabilities.",
+  "requestFramePermissions": []
+}
